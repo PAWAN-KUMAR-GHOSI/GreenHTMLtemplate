@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+}
+.uni-padding{
+    padding: 0 7%;
+}
+/* fontfammly */
+*{font-family: 'Roboto', sans-serif;}
+
+
+#topbar{
+    background-color:whitesmoke;
+    padding: 5px ;
+    overflow: auto;
+
+}
+#tollfree{
+    float: left;
+
+}
+#socialicon{
+     float: right;
+
+}
+
+.fa-solid{
+    margin: 5px;
+    color: green;
+}
+.fa-brands{
+    margin: 10px;
+}
+/* midalbaar */
+
+#middalbar{
+    background-color:whitesmoke;
+    padding: 5px;
+    overflow: auto;
+}
+#h1{
+    float: left;
+    color: green;
+    font-size: 20px;
+}
+#menu{
+    padding-top: 10px;
+    display: inline-block;
+    float: right;
+}
+#menu-list{
+    margin: 10px;
+}
+#menu-list li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 15px;
+    
+}
+input{
+    border: 2px solid green;
+    background-color: azure;
+    font-size: 15px;
+    color: green;
+    padding: 10px 25px;
+}
+/* poster */
+#poster{
+    border: 1px solid rgb(95, 172, 95);
+    background-color: rgb(63, 168, 63);
+    height: 600px;
+}
+.hadding{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10%;
+
+}
+.p{
+    color: white;
+    text-align: center;
+    white-space: pre; 
+}
+.input1{
+    background-color: rgb(103, 180, 103);
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 45%;
+
+    
+}
+/* footer */
+
+#footer{
+    background-color: whitesmoke;
+    overflow: auto;
+}
+
+    
+.div33{
+    width: 33.33%;
+    float: left;
+    padding: 31px 30px;
+    box-sizing: border-box;
+}
+.fa-regular{
+    margin: 5px;
+    color: green;
+    font-size: 50px;
+}
+
+/* copyright */
+.copyright{
+    padding: 1px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
